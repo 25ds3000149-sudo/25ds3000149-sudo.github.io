@@ -28,25 +28,11 @@
     {"id": "prod-853ee13a-022", "name": "Premium Item 22", "category": "books", "price": 269.39, "stock": 169, "rating": 2.1}
   ],
   "aggregations": {
-  "clothing": {
-    "count": 8,
-    "inventoryValue": 211049.27
-  },
-  "sports": {
-    "count": 2,
-    "inventoryValue": 75066.24
-  },
-  "home": {
-    "count": 4,
-    "inventoryValue": 127248.2
-  },
-  "books": {
-    "count": 6,
-    "inventoryValue": 200220.84
-  },
-  "electronics": {
-    "count": 2,
-    "inventoryValue": 26012.58
-  }
+  "clothing": {"count":8,"inventoryValue":211049.27},
+  "sports": {"count":2,"inventoryValue":75909.76},
+  "home": {"count":4,"inventoryValue":141448.02},
+  "books": {"count":6,"inventoryValue":200220.84},
+  "electronics": {"count":2,"inventoryValue":26012.58}
 }
+
 }
